@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: UiProfile
   m_EditorClassIdentifier: 
   backdropColor: {r: 0, g: 0, b: 0, a: 0}
-  primaryColor: {r: 0, g: 0, b: 0, a: 0}
-  secondaryColor: {r: 0, g: 0, b: 0, a: 0}
+  primaryColor: {r: 0.3647059, g: 0.15686275, b: 0.09803922, a: 1}
+  secondaryColor: {r: 0.9529412, g: 0.8117647, b: 0.47843137, a: 1}
   tertiaryColor: {r: 0, g: 0, b: 0, a: 0}
   successAlertColor: {r: 0, g: 0, b: 0, a: 0}
   errorAlertColor: {r: 0, g: 0, b: 0, a: 0}

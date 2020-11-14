@@ -17,6 +17,12 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 7d144f8c606d4a5418c8a9df0f166680
   m_SerializeEntries:
+  - m_GUID: 5f5ef86dc487fc04d93a67bb08875740
+    m_Address: Assets/Prefabs/Menus/Base/HomeMenu.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: ae0e3d3be6b001a448f25c6efb79cd01
     m_Address: Assets/Prefabs/Menus/UiRoot.prefab
     m_ReadOnly: 0

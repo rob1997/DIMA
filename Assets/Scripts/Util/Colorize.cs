@@ -19,9 +19,12 @@ namespace Util
 
         public Order order = Order.Primary;
 
+        private Graphic _graphic;
+        
         private void Awake()
         {
-            GetComponent<Graphic>().color = Solve();
+            _graphic = GetComponent<Graphic>();
+            _graphic.color = Solve();
         }
 
         Color Solve()
@@ -62,7 +65,7 @@ namespace Util
 
         private void Update()
         {
-            GetComponent<Graphic>().color = Solve();
+            _graphic.color = Solve();
         }
 
 #endif
