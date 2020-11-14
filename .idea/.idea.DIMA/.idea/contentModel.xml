@@ -3,8 +3,193 @@
   <component name="ContentModelStore">
     <e p="C:\Users\Robel\.Rider2019.1\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Robel\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_DIMA.-2000253726.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Robel\Documents\Unity\Projects\DIMA" t="IncludeFlat">
+    <e p="C:\Users\Robel\Documents\Unity\Projects\DIMA" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Material_Vector_Icon" t="Include">
+            <e p="ASMaterialIcon" t="Include">
+              <e p="Documentation" t="Include">
+                <e p="Documentation.txt" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="MaterialVectorIconEditor.cs" t="Include" />
+                <e p="MaterialVectorIconEditorWindow.cs" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="MaterialVectorIcon.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Resources" t="Include">
+              <e p="ASMaterialIcon" t="Include">
+                <e p="Fonts" t="Include">
+                  <e p="LICENSE.txt" t="Include" />
+                  <e p="MaterialIcons.txt" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="ProceduralUIImage" t="Include">
+            <e p="Editor" t="Include">
+              <e p="FreeModifierEditor.cs" t="Include" />
+              <e p="ModifierUtility.cs" t="Include" />
+              <e p="ProceduralImageEditor.cs" t="Include" />
+              <e p="ProceduralImageEditorUtility.cs" t="Include" />
+            </e>
+            <e p="Resources" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="ProceduralImageRuntime.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Attributes" t="Include">
+                <e p="ModifierID.cs" t="Include" />
+              </e>
+              <e p="EmptySprite.cs" t="Include" />
+              <e p="Modifiers" t="Include">
+                <e p="CustomPremadeModifier.cs" t="Include" />
+                <e p="FreeModifier.cs" t="Include" />
+                <e p="OnlyOneEdgeModifier.cs" t="Include" />
+                <e p="RoundModifier.cs" t="Include" />
+                <e p="UniformModifier.cs" t="Include" />
+              </e>
+              <e p="ProceduralImage.cs" t="Include" />
+              <e p="ProceduralImageModifier.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Hierarchy" t="Include">
+            <e p="Alert" t="Include">
+              <e p="Alert.cs" t="Include" />
+              <e p="AlertFactory.cs" t="Include" />
+            </e>
+            <e p="Layer" t="Include">
+              <e p="AlertLayer.cs" t="Include" />
+              <e p="BaseLayer.cs" t="Include" />
+              <e p="UiLayer.cs" t="Include" />
+              <e p="WindowLayer.cs" t="Include" />
+            </e>
+            <e p="Menu" t="Include">
+              <e p="Alert" t="Include">
+                <e p="AlertMenu.cs" t="Include" />
+              </e>
+              <e p="Bar" t="Include">
+                <e p="BarMenu.cs" t="Include" />
+              </e>
+              <e p="Base" t="Include">
+                <e p="BaseMenu.cs" t="Include" />
+              </e>
+              <e p="UiMenu.cs" t="Include" />
+              <e p="Window" t="Include">
+                <e p="WindowMenu.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Region" t="Include">
+              <e p="AlertRegion.cs" t="Include" />
+              <e p="Bar" t="Include">
+                <e p="BarRegion.cs" t="Include" />
+                <e p="BottomBarRegion.cs" t="Include" />
+                <e p="SideBarRegion.cs" t="Include" />
+                <e p="TopBarRegion.cs" t="Include" />
+              </e>
+              <e p="BaseRegion.cs" t="Include" />
+              <e p="MenuRegion.cs" t="Include" />
+              <e p="SliderRegion.cs" t="Include" />
+              <e p="TabRegion.cs" t="Include" />
+              <e p="UiRegion.cs" t="Include" />
+              <e p="WindowRegion.cs" t="Include" />
+            </e>
+            <e p="Slider" t="Include">
+              <e p="SliderContainerMenu.cs" t="Include" />
+            </e>
+            <e p="Tab" t="Include">
+              <e p="TabContainerMenu.cs" t="Include" />
+            </e>
+            <e p="UiElement.cs" t="Include" />
+            <e p="UiRoot.cs" t="Include" />
+            <e p="Window" t="Include">
+              <e p="Window.cs" t="Include" />
+              <e p="WindowFactory.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Manager" t="Include">
+            <e p="UiManager.cs" t="Include" />
+          </e>
+          <e p="Resource" t="Include">
+            <e p="Script" t="Include">
+              <e p="Profile" t="Include">
+                <e p="UiProfile.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Transition" t="Include">
+            <e p="BiDirectional" t="Include">
+              <e p="BiDirectionalTransition.cs" t="Include" />
+              <e p="HSlideTransition.cs" t="Include" />
+              <e p="ScaleTransition.cs" t="Include" />
+              <e p="VSlideTransition.cs" t="Include" />
+            </e>
+            <e p="UiTransition.cs" t="Include" />
+          </e>
+          <e p="Util" t="Include">
+            <e p="Colorize.cs" t="Include" />
+            <e p="Singleton.cs" t="Include" />
+            <e p="UiConstants.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
       <e p="DIMA.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
     </e>
   </component>
 </project>
