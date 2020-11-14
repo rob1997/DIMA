@@ -26,6 +26,8 @@ namespace Hierarchy
         private void Start()
         {
             layers = new List<UiLayer>(canvas.GetComponentsInChildren<UiLayer>());
+            
+            LoadMenu<BaseRegion>(typeof(HomeMenu));
         }
 
         public void LoadMenu<TRegion>(System.Type menu) where TRegion : MenuRegion

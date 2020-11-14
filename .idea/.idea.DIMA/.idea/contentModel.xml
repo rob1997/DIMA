@@ -95,6 +95,7 @@
               </e>
               <e p="Base" t="Include">
                 <e p="BaseMenu.cs" t="Include" />
+                <e p="HomeMenu.cs" t="Include" />
               </e>
               <e p="UiMenu.cs" t="Include" />
               <e p="Window" t="Include">

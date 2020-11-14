@@ -5,6 +5,7 @@ using Hierarchy.Menu.Alert;
 using Hierarchy.Menu.Bar;
 using Hierarchy.Menu.Base;
 using Hierarchy.Menu.Window;
+using Hierarchy.Region;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.UI;
@@ -22,6 +23,8 @@ namespace Util
         {
             //Base Layer
             
+            {typeof(HomeMenu), "Assets/Prefabs/Menus/Base/HomeMenu.prefab"}
+            
             //Base Region
             
             //Top Region
@@ -32,7 +35,7 @@ namespace Util
 
             //Window Layer
         };
-        
+
         public static bool GetMenuAddress(Type menu, out string address)
         {
             address = string.Empty;
