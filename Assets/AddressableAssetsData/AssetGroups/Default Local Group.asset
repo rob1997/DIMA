@@ -29,6 +29,18 @@ MonoBehaviour:
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
+  - m_GUID: af5460f9affe0ec408b53ce054f3ff7a
+    m_Address: Assets/Prefabs/Menus/Bar/Top/TopBarMenu.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fe571d9a1481ef64ca2cbabf9c3e6cf0
+    m_Address: Assets/Prefabs/Menus/Bar/Side/SideBarMenu.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 631e006a04b154f449e3e17cf47b50aa, type: 2}
   m_SchemaSet:

@@ -23,13 +23,18 @@ namespace Util
         {
             //Base Layer
             
-            {typeof(HomeMenu), "Assets/Prefabs/Menus/Base/HomeMenu.prefab"}
-            
             //Base Region
             
-            //Top Region
+            {typeof(HomeMenu), "Assets/Prefabs/Menus/Base/HomeMenu.prefab"},
+
+            //Top Bar Region
             
-            //Bottom Region
+            //Bottom bar Region
+            
+            //Side bar Region
+            
+            {typeof(SideBarMenu), "Assets/Prefabs/Menus/Bar/Side/SideBarMenu.prefab"},
+            {typeof(TopBarMenu), "Assets/Prefabs/Menus/Bar/Top/TopBarMenu.prefab"},
             
             //Alert Layer
 

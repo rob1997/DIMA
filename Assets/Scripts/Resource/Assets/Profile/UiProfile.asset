@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80ecc3cf61932e1449a97c3b5ac02236, type: 3}
   m_Name: UiProfile
   m_EditorClassIdentifier: 
-  backdropColor: {r: 0, g: 0, b: 0, a: 0}
+  backdropColor: {r: 0, g: 0, b: 0, a: 0.5019608}
   primaryColor: {r: 0.3647059, g: 0.15686275, b: 0.09803922, a: 1}
   secondaryColor: {r: 0.9529412, g: 0.8117647, b: 0.47843137, a: 1}
   tertiaryColor: {r: 0, g: 0, b: 0, a: 0}
